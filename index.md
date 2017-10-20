@@ -1,7 +1,7 @@
 ## **Welcome to the repository of ANKIT!**
 
 ##### I am a Data Scientist and Strategic Analyst presently located in Barcelona, Spain.
-
+![stack Overflow](http://lmsotfy.com/so.png)
 
 ### Markdown
 
